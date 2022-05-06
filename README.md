@@ -2,4 +2,4 @@
 
 A Hugo-based site using Bryan's theme for the Good Docs Project's Git training workshop.
 
-Hosted on Netlify: [https://tgdp-git.netlify.app/](https://tgdp-git.netlify.app/)
+Hosted on Netlify: [https://the-good-dogs-project.netlify.app/](https://the-good-dogs-project.netlify.app/)
