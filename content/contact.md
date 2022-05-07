@@ -5,7 +5,7 @@ draft: false
 layout: single
 ---
 
-We are located out in sunny Beverly Hills, California! You can find us at:
+We are located out in Sunny Beverly Hills, California! You can find us at:
 
 **353 Foothill Rd.<br />
 Beverly Hills, CA 90210**
